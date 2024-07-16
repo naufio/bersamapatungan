@@ -8,7 +8,7 @@
 
 	<div class="kalkulator">
 		<h2 class="judul">Split Bill</h2>
-		<form action="output.php" method='GET' name="myForm">		
+		<form action="https://naufio.github.io/bersamapatungan/output.php" method='GET' name="myForm">		
 			<input type="text" name="bill" class="bil" autocomplete="off" placeholder="Masukkan Total Bill" required title="Mohon diisi">
 			<input type="text" name="nama01" class="bilkiri" autocomplete="off" placeholder="Nama 01" required title="Mohon diisi"><input type="text" name="sub_hrg_01_01" class="bilkiri" autocomplete="off" placeholder="Harga 01" value=0><input type="text" name="sub_hrg_02_01" class="bilkiri" autocomplete="off" placeholder="Harga 01" value=0> <input type="text" name="sub_hrg_03_01" class="bilkiri" autocomplete="off" placeholder="Harga 01" value=0>	
 			<input type="text" name="nama02" class="bilkiri" autocomplete="off" placeholder="Nama 02" required title="Mohon diisi"><input type="text" name="sub_hrg_01_02" class="bilkiri" autocomplete="off" placeholder="Harga 02" value=0><input type="text" name="sub_hrg_02_02" class="bilkiri" autocomplete="off" placeholder="Harga 02" value=0> <input type="text" name="sub_hrg_03_02" class="bilkiri" autocomplete="off" placeholder="Harga 02" value=0>	
